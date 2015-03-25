@@ -1,0 +1,15 @@
+=encoding utf8
+
+=head1 Captioned Image - “Pinned it on Me” from the film Silver Linings Playbook
+
+=head2 About
+
+This repository contains the sources for a captioned image. It is taken out
+of the film L<https://en.wikipedia.org/wiki/Silver_Linings_Playbook>
+
+=head2 Creator
+
+L<http://www.shlomifish.org/> - Shlomi Fish.
+
+=cut
+
