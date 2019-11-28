@@ -4,7 +4,7 @@
 #
 #
 
-WEBP = SLP-excerpt-pinned-it-on-me--400w.webp
+WEBP = SLP-excerpt-pinned-it-on-me.webp
 
 WIDTH = 400
 
