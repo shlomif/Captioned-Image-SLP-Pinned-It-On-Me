@@ -6,7 +6,7 @@
 
 WEBP = SLP-excerpt-pinned-it-on-me.webp
 
-WIDTH = 400
+WIDTH = 600
 
 all: $(WEBP)
 
